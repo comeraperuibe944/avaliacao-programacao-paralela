@@ -153,7 +153,7 @@ Para testar cada solução, execute o programa correspondente e observe:
 
 ## Relatório Comparativo
 
-Para uma análise detalhada das métricas e comparação entre as soluções, consulte o [RELATORIO.md](RELATORIO.md).
+Para uma análise detalhada das métricas e comparação entre as soluções, consulte o [Relatorio.pdf](Relatorio.pdf).
 
 ## Requisitos
 
@@ -166,4 +166,5 @@ Para uma análise detalhada das métricas e comparação entre as soluções, co
 - Os tempos de execução estão configurados nas constantes de cada classe principal
 - Os logs são impressos no console em tempo real
 - As estatísticas são exibidas ao final da execução
+
 
