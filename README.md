@@ -5,13 +5,13 @@
 
 ```
 prova-jantar-filósofos/
-├── README.md
-├── RELATORIO.pdf
-└── src/
-    ├── tarefa 1/    # Implementação básica com deadlock
-    ├── tarefa 2/    # Soluç Ao com ordem diferente
-    ├── tarefa 3/    # Solução com semáforos
-    └── tarefa 4/    # Solução com monitores
+ README.md
+ RELATORIO.pdf
+ src/
+     tarefa 1/    # Implementação básica com deadlock
+     tarefa 2/    # Soluç Ao com ordem diferente
+     tarefa 3/    # Solução com semáforos
+     tarefa 4/    # Solução com monitores
 ```
 
 ## Instruções de Compilação e Execução
